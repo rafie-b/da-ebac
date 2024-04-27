@@ -1,2 +1,2 @@
 # da-ebac
-Aplicações práticas do curso Profissão Analista de Dados da EBAC.
+Aplicações Python do curso de Analista de Dados da EBAC.
